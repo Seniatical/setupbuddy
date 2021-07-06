@@ -13,5 +13,6 @@
     <li>Easy to use and elegant dashboard</li>
     <li>Easy setup</li>
     <li>Keep track of your downloads</li>
+    <li>Customise your screens!</li>
   </ul>  
 </p>
