@@ -4,10 +4,10 @@
 <h1 align="center"><strong>Setup</strong>buddy</h1>
 <h4 align="center">Simple, Powerful and Fast</h4>
 
+<h3>Coming Soon!</h3>
+
 <h1 align="">Features</h1>
 <p align="">
-  
-  <h3>Coming Soon!</h3>
   
   <ul align="">
     <li>Easy to use and elegant dashboard</li>
@@ -16,3 +16,9 @@
     <li>Customise your screens!</li>
   </ul>  
 </p>
+
+<h1>What Can I Do?</h1>
+<p>
+  The purpose of this application is to make fast client to server installer managers with the addition of status monitoring and allowing you to see
+  were your most audience are located. As well as that I am free and highly customisable.
+</p>  
